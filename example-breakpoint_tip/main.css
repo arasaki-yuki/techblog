@@ -1,0 +1,16 @@
+body {
+  padding: 20px;
+  word-break: break-all;
+}
+.article_contents {
+  padding: 10px;
+  margin-top: 20px;
+}
+h1 {
+  font-weight: bold;
+  font-size: 24px;
+}
+.article_contents h1 {
+  color: cornflowerblue;
+  margin-bottom: 10px;
+}
